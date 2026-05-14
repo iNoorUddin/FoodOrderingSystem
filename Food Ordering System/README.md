@@ -1,17 +1,8 @@
-# 🍽️ FoodExpress — Online Food Ordering System
-
-**Subject:** Object-Oriented Programming  
-**Project:** Complex Computing Activity (CCA)  
-**Group Members:**
-- Member 1 — [Your Name] — [Roll No]
-- Member 2 — [Name] — [Roll No]
-- Member 3 — [Name] — [Roll No]
-
----
+# 🍽️ Foodin — Online Food Ordering System
 
 ## About The Project
 
-FoodExpress is a fully functional online food ordering system built using C++ and the Qt6 GUI framework. It allows customers to browse a menu, add items to a cart, place orders, and track their order status — just like a real food delivery app. Admins can manage the menu, update order statuses, and view analytics.
+Foodin is a fully functional online food ordering system built using C++ and the Qt6 GUI framework. It allows customers to browse a menu, add items to a cart, place orders, and track their order status — just like a real food delivery app. Admins can manage the menu, update order statuses, and view analytics.
 
 We chose this project because food delivery apps are used by millions of people daily, and it gave us a great opportunity to apply all OOP concepts in a real-world scenario.
 
@@ -102,24 +93,6 @@ FoodOrderingSystem/
 └── docs/             Execution guide
 ```
 
----
 
-## Contribution Statement
-
-| Member | Contribution |
-|--------|-------------|
-| [Member 1] | OOP class design, Person/Customer/Admin hierarchy, DatabaseManager |
-| [Member 2] | Order management, FoodService business logic, FileManager |
-| [Member 3] | Qt GUI (MainWindow), styling, testing, documentation |
-
-*All members contributed equally to the overall design and testing.*
-
----
-
-## Screenshots
-
-*(Add screenshots of your running application here)*
-
----
 
 > **Note:** This project was developed for academic purposes as part of the CCA assignment.

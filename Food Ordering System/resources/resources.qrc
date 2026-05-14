@@ -1,0 +1,17 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+  <file>images/banner.jpg</file>
+    <file>images/biryani.jpg</file>
+    <file>images/burger.jpg</file>
+    <file>images/karahi.jpg</file>
+    <file>images/pizza.jpg</file>
+    <file>images/seekh.jpg</file>
+    <file>images/fries.jpg</file>
+    <file>images/lassi.jpg</file>
+    <file>images/naan.jpg</file>
+    <file>images/nihari.jpg</file>
+    <file>images/brownie.jpg</file>
+    <file>images/placeholder.png</file>
+  </qresource>
+</RCC>
